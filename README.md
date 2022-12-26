@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# flutter-ui-challenges
-=======
 # flutter_ui_challenges
 
 A new Flutter project.
